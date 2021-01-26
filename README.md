@@ -1,5 +1,4 @@
-# Rate Me
-## Web Technologies project
+# Rate Me - Web Technologies project
 
 ### Collaborators:
 +[Flavius Holerga](https://github.com/MrHup)
