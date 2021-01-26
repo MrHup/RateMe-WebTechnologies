@@ -1,16 +1,11 @@
-# rate_me
+# Rate Me
+## Web Technologies project
 
-A new Flutter project.
+### Collaborators:
++[Flavius Holerga](https://github.com/MrHup)
++[Angela Katona](https://github.com/angelabernadett)
 
-## Getting Started
+This was a project made for University for the "Web Technologies" course, which consists of a Flutter application alongside a NodeJs REST Api. It's purpose is to allow users to give ratings for other users based on social interactions that they had in real life, which will affect their overall user score. The idea was inspired by the episode called "Nosedive" from Black Mirror.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run this application, you will need the Flutter framework in order to compile it. Get it from [here](https://flutter.dev/docs/get-started/install)
+To do that use `flutter run` or  `flutter run -d chrome` (additional set-up required for the web application). Check the manual [here](https://flutter.dev/docs/get-started/web).
